@@ -2,11 +2,6 @@ EX4: Networking between two modems
 
 NAME: Abdallah Natsheh 
 
-Project Management:
-
-`	`Server written by abdallah Natsheh.
-
-`	`Client written by ameer haddad.
 
 Notes:
 
